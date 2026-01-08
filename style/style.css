@@ -1,0 +1,38 @@
+/* Font-Family */
+
+.inter {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+
+
+/* Navbar style */
+
+.nav-con {
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 16px;
+    /*  background-color: aqua; */
+}
+
+.nav-link {
+    display: flex;
+    list-style: none;
+    gap: 2em;
+}
+
+.primary-btn {
+    background-color: #469165;
+    width: 144px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    color: aliceblue;
+    font-weight: bold;
+    margin-top: 8px;
+}
