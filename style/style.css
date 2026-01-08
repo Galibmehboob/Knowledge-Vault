@@ -243,3 +243,35 @@
     background-color: #00d157;
     cursor: pointer;
 }
+
+/* Footer style */
+.footer-section {
+    background-color: #001931;
+    margin-top: 90px;
+}
+
+.contact {
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: 0 auto;
+    padding: 80px 0;
+}
+
+.social {
+    color: #F7F6F2;
+    padding-right: 60px;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: start;
+}
+
+.copy-rights {
+    text-align: center;
+    color: #F7F6F2;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
